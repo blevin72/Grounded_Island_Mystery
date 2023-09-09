@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{32C3BDE6-E125-3128-82C1-25D0441455A3}</ProjectGuid>
+    <ProjectGuid>{B86F2875-EC88-21DD-6DAF-EDC9CA37F3FA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,8 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.4f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/NextLevelTrigger.cs" />
+    <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Default/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/Scripts/FollowPlayer.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />

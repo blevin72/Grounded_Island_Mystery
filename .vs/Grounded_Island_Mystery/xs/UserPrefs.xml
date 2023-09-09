@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B86F2875-EC88-21DD-6DAF-EDC9CA37F3FA}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="21db98b9-22d7-4ad8-aca5-4330fca0fdf0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NextLevelTrigger.cs">
+    <Files>
+      <File FileName="Assets/GameManager.cs" Line="19" Column="1" />
+      <File FileName="Assets/NextLevelTrigger.cs" Line="12" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grounded_Island_Mystery" expanded="True" selected="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
